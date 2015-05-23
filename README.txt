@@ -1,0 +1,1 @@
+Implemented a Spring based Java web application that will expose a resource through which it will be possible to get counts of number of meetings for a project from the eavesdrop website for different years.
